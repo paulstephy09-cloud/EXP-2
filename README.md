@@ -85,14 +85,14 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Field current If (A) | Generated EMF Eg (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
+| 1 | 1.2| 
+| 2 | 3.2| 
+| 3 |5.5 | 
+| 4 |3.6 | 
+| 5 |3.2 | 
+| 6 |7| 
+| 7 |10.2 | 
+
 <img width="171" height="174" alt="table1" src="https://github.com/user-attachments/assets/a66d9a41-a839-4765-9dc8-bad851ffae53" />
 
 
@@ -100,13 +100,13 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 
 | S. No. | Load current IL (A) | Load voltage VL (V) |
 |:---:|:---:|:---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
-| 7 | | |
+| 1 |115 |0.16 |
+| 2 |120 |0.18 |
+| 3 |126 |0.20 |
+| 4 |129|0.21 |
+| 5 |133 |0.23 |
+| 6 |135 |0.24 |
+| 7 |138 |0.28 |
 | 8 | | |
 <img width="279" height="252" alt="table2" src="https://github.com/user-attachments/assets/f931e717-7776-4542-87ed-8af5526ffa6a" />
 
