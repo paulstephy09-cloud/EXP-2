@@ -56,6 +56,7 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 
 ## CIRCUIT DIAGRAM
 
+
 *[ Insert the circuit diagram here ]*
 
 **Figure 1:** Circuit diagram for OCC and load test of D.C. shunt generator
@@ -65,12 +66,14 @@ To conduct the open circuit and load test on a D.C. shunt generator and to obtai
 Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee) D.C. machine experiment and paste screenshots showing the circuit, meter readings and plotted characteristics.
 
 ### A. Open circuit test – simulation
+<img width="1343" height="922" alt="Screenshot 2026-11-10 104429" src="https://github.com/user-attachments/assets/cfc62bba-2f5c-4bf1-a3ae-742395b96651" />
 
 *[ Paste the Virtual Lab OCC simulation screenshot here ]*
 
 **Figure 2:** Virtual Lab simulation – open circuit test
 
 ### B. Load test – simulation
+<img width="1298" height="899" alt="Screenshot 2026-11-10 105040" src="https://github.com/user-attachments/assets/88eac284-d0de-4bd6-87d5-a9c57dd40072" />
 
 *[ Paste the Virtual Lab load test simulation screenshot here ]*
 
@@ -90,6 +93,8 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 | 6 | | |
 | 7 | | |
 | 8 | | |
+<img width="171" height="174" alt="table1" src="https://github.com/user-attachments/assets/a66d9a41-a839-4765-9dc8-bad851ffae53" />
+
 
 ### B. Load test
 
@@ -103,6 +108,7 @@ Perform the open circuit test and the load test in the Virtual Lab (IIT Roorkee)
 | 6 | | |
 | 7 | | |
 | 8 | | |
+<img width="279" height="252" alt="table2" src="https://github.com/user-attachments/assets/f931e717-7776-4542-87ed-8af5526ffa6a" />
 
 ## FORMULA
 
@@ -113,12 +119,14 @@ Eg – generated EMF (V); VL – terminal (load) voltage (V); Ia – armature cu
 ## MODEL GRAPH
 
 ### A. Open circuit characteristics (If vs Eg)
+<img width="922" height="494" alt="graph1" src="https://github.com/user-attachments/assets/ff3ab4c0-25c2-4781-bb1f-6d9f69b189be" />
 
 *[ Paste / draw the OCC graph here ]*
 
 **Figure 4:** Open circuit characteristics
 
 ### B. Load characteristics (IL vs VL)
+<img width="633" height="275" alt="Screenshot 2026-11-10 105040" src="https://github.com/user-attachments/assets/bd707f8f-f327-4346-8074-cfc93b661d40" />
 
 *[ Paste / draw the load characteristics graph here ]*
 
