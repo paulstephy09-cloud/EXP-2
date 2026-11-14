@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:STEPHY PAUL | **Reg. No.:26009610
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:14.11.26| | **Batch / Section:|260DJ166 |
 
 ---
 
